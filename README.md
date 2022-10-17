@@ -7,6 +7,23 @@ In this work, a common GAN is used not as a generative model, but as a discrimin
 
 ## Results
 
+<table>
+
+<tr>
+<td> Our work </td>
+<td> Results from paper </td>
+<td> Real Data </td>
+  
+</tr>
+
+<tr>
+<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPmywork.png"> </td>
+<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPOriginal.png"> </td>
+<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPOriginal.png"> </td>
+</tr>
+
+</table>
+
 ## Resources
 - [DCGAN Paper](https://arxiv.org/abs/1511.06434)
 - [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
