@@ -8,7 +8,7 @@ In this work, a common GAN is used not as a generative model, but as a discrimin
 ## Results
 
 ## Resources
--[DCGAN Paper](https://arxiv.org/abs/1511.06434)
--[CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
--[DCGAN Tutorial for tensorflow](https://www.tensorflow.org/tutorials/generative/dcgan)
--[DCGAN Tutorial for pytorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+- [DCGAN Paper](https://arxiv.org/abs/1511.06434)
+- [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+- [DCGAN Tutorial for tensorflow](https://www.tensorflow.org/tutorials/generative/dcgan)
+- [DCGAN Tutorial for pytorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
