@@ -17,9 +17,9 @@ In this work, a common GAN is used not as a generative model, but as a discrimin
 </tr>
 
 <tr>
-<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPmywork.png"> </td>
-<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPOriginal.png"> </td>
-<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPOriginal.png"> </td>
+<td> <img src="https://github.com/SajjadPSavoji/DCGANFaces/blob/main/Assets/DCGANFacesMyModel.png"> </td>
+<td> <img src="https://github.com/SajjadPSavoji/DCGANFaces/blob/main/Assets/DCGANFacesPaper.png"> </td>
+<td> <img src="https://github.com/SajjadPSavoji/DCGANFaces/blob/main/Assets/DCGANFacesRealPicture1.png"> </td>
 </tr>
 
 </table>
